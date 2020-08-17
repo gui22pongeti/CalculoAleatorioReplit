@@ -13,7 +13,7 @@ Scanner ler = new Scanner(System.in);
     num2 = ler.nextInt();
     }
     
-    public calculo void(){
+    public void calculo (){
     resul = num + num2;
     }
 
